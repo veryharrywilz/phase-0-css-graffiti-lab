@@ -1,1 +1,26 @@
 /* write your override styles here */
+div.tag-1 {
+    display: none;
+}
+.parent {
+    display: none;
+}
+div#tag-2 {
+    display: none;
+}
+div#tag-3 {
+    display: none;
+}
+.slickwicked {
+    display: none;
+}
+.slick {
+    display: none;
+}
+div#wall > div {
+    display: none;
+}
+
+div[id="tag-5"] {
+    display: none;
+}
